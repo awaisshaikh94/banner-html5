@@ -1,0 +1,37 @@
+body
+{
+    overflow-x: hidden;
+}
+
+.slider
+{
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.slider .content
+{
+    text-align: center;
+    padding: 200px 100px 0 100px;
+    color: #fff;
+}
+
+.slider .content h1
+{
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.slider .content a
+{
+    text-decoration: none;
+    color: #0e527d;
+    background-color: #fff;
+    padding: 15px 40px 15px 40px;
+    border-radius: 25px;
+    position: relative;
+    top: 20px;
+    box-shadow: 0px 0px 20px #002841;
+}
